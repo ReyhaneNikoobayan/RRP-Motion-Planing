@@ -1,0 +1,13 @@
+function [theta1,theta2,d]=inver(x,y,z)
+L1=310;
+L2=300;
+pos0=[x;y;z;1];
+x=pos0(1);
+y=pos0(2);
+theta1=atan2d(y,x);
+H0_1=Trans('y',-L1)*Rot('y',-theta1)*Rot('x',-90);
+pos1=H0_1*pos0;
+x1=pos1(1);
+y1=pos1(2);
+theta2=atan2d(y1,x1);
+d=(x1^2+y1^2)^0.5-L2;
