@@ -37,7 +37,7 @@ D=50+330*t^2-220*t^3
 
 ---
 
-# The second task is to design a trajectory motion from a given initial position to a final position but with these conditions:
+## The second task is to design a trajectory motion from a given initial position to a final position but with these conditions:
 
 -**The robot’s end-effector must move along a straight line from the initial position to the final position.**
 
