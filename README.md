@@ -24,5 +24,5 @@ D=50+330*t^2-220*t^3
 
 **Simulation in Matlab**
 
-<img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/21f05ad0-49e4-4e92-8245-ac514c7a9f66" />
+<img width="1896" height="950" alt="image" src="https://github.com/user-attachments/assets/04d261bd-0164-4b77-8972-310f815a2d00" />
 
