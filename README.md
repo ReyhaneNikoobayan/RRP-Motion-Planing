@@ -14,7 +14,7 @@ The movement must be completed in 1 second, with the following conditions:
 
 - **A polynomial trajectory (multi-term interpolation) should be used to ensure continuity of position, velocity, and acceleration throughout the motion.**
 
-**Joints equation base on conditions**
+**Joints equation base on conditions:**
 
 Theta1=-30+315*t^2-210*t 
 
