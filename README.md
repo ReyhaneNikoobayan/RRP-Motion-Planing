@@ -22,6 +22,7 @@ Theta2=-20+180*t^2-120*t^3
 
 D=50+330*t^2-220*t^3
 
+
 **Simulation in Matlab**
 
 <img width="1896" height="950" alt="image" src="https://github.com/user-attachments/assets/04d261bd-0164-4b77-8972-310f815a2d00" />
