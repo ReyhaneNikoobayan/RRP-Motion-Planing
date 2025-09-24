@@ -16,8 +16,10 @@ The movement must be completed in 1 second, with the following conditions:
 
 **Joints equation base on conditions**
 
-Theta1=-30+315*t^2-210*t
-Theta2=-20+180*t^2-120*t^3
+Theta1=-30+315*t^2-210*t 
+
+Theta2=-20+180*t^2-120*t^3  
+
 D=50+330*t^2-220*t^3
 
 **Simulation in Matlab**
