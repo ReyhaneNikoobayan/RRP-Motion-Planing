@@ -26,3 +26,7 @@ D=50+330*t^2-220*t^3
 
 <img width="1896" height="950" alt="image" src="https://github.com/user-attachments/assets/04d261bd-0164-4b77-8972-310f815a2d00" />
 
+**End-effector trajectory**
+<img width="876" height="553" alt="image" src="https://github.com/user-attachments/assets/7ed3e478-7506-4f86-82ea-6cc5665d110a" />
+
+
