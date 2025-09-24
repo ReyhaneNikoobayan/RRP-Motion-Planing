@@ -37,7 +37,7 @@ D=50+330*t^2-220*t^3
 
 ---
 
-The second task is to design a trajectory motion from a given initial position to a final position but with these conditions:
+# The second task is to design a trajectory motion from a given initial position to a final position but with these conditions:
 
 -**The robot’s end-effector must move along a straight line from the initial position to the final position.**
 
@@ -46,6 +46,27 @@ The second task is to design a trajectory motion from a given initial position t
                           vmax​=30cm/s ​,amax​=±4g​
                           
 We first calculate end-effector position base on velocity, Then we transfer end effector position to joint state.
+
+**Velocity signal**
+
+<img width="975" height="636" alt="image" src="https://github.com/user-attachments/assets/245fb663-cae9-4c78-a4f7-ad7959d6fd5a" />
+
+**Simulation in Matlab**
+
+<img width="1596" height="730" alt="image" src="https://github.com/user-attachments/assets/e07470d5-12a3-4dea-a96c-192bf51f4c6f" />
+
+**End-effector trajectory**
+
+<img width="1544" height="826" alt="image" src="https://github.com/user-attachments/assets/9b3bdf75-c784-4a2d-9315-8f70280a5b76" />
+
+<img width="1560" height="932" alt="image" src="https://github.com/user-attachments/assets/e774bead-b0a5-40f0-8c1e-d784b6621847" />
+
+<img width="1326" height="862" alt="image" src="https://github.com/user-attachments/assets/c8981bf3-9c99-4580-92c3-e2fc643c45d3" />
+
+
+
+
+
 
 
 
