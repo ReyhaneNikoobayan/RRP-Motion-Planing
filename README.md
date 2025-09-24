@@ -1,6 +1,6 @@
 # RRP Motion Planing
 
-The first task is to design the motion trajectory of a 3-DOF spherical robot from a given initial position to a final position in Cartesian space.
+## The first task is to design the motion trajectory of a 3-DOF spherical robot from a given initial position to a final position in Cartesian space.
 
 <img width="596" height="530" alt="image" src="https://github.com/user-attachments/assets/7bda93dd-3dda-437e-94ad-6d07b939b124" />
 
