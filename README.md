@@ -11,3 +11,16 @@ The movement must be completed in 1 second, with the following conditions:
 - **The path type itself is not important, but the motion of the joints must be smooth.**
 
 - **A polynomial trajectory (multi-term interpolation) should be used to ensure continuity of position, velocity, and acceleration throughout the motion.**
+
+---
+
+**Joints equation base on conditions**
+
+Theta1=-30+315*t^2-210*t
+Theta2=-20+180*t^2-120*t^3
+D=50+330*t^2-220*t^3
+
+**Simulation in Matlab**
+
+<img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/21f05ad0-49e4-4e92-8245-ac514c7a9f66" />
+
