@@ -52,6 +52,8 @@ We first calculate end-effector position base on velocity, Then we transfer end 
 
 <img width="975" height="636" alt="image" src="https://github.com/user-attachments/assets/245fb663-cae9-4c78-a4f7-ad7959d6fd5a" />
 
+
+
 **Simulation in Matlab**
 
 <img width="1596" height="730" alt="image" src="https://github.com/user-attachments/assets/e07470d5-12a3-4dea-a96c-192bf51f4c6f" />
