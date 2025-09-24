@@ -32,11 +32,20 @@ D=50+330*t^2-220*t^3
 
 <img width="1324" height="838" alt="image" src="https://github.com/user-attachments/assets/6c758fad-4357-40e7-b523-3ba5722d645f" />
 
----
-
-The second task is to design 
 
 <img width="1224" height="1040" alt="image" src="https://github.com/user-attachments/assets/5656f597-36d3-4691-a705-7b11fd725236" />
+
+---
+
+The second task is to design a trajectory motion from a given initial position to a final position but with these conditions:
+
+-**The robot’s end-effector must move along a straight line from the initial position to the final position.**
+
+-**The trajectory is designed based on a trapezoidal velocity profile with the following limits:**
+
+                          vmax​=30cm/s ​,amax​=±4g​
+                          
+We first calculate end-effector position base on velocity, Then we transfer end effector position to joint state.
 
 
 
